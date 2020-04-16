@@ -29,7 +29,7 @@ div.rele1_ligado {
     height: 206px;
     border: none;
 	margin:auto;
-    background-image: url("lampada_on.png") no-repeat left top;
+    background-image: url("https://cdn.jsdelivr.net/gh/guivillar/homeautomation@master/lampada_on.png") no-repeat left top;
 }
 
 div.rele1_desligado {
@@ -39,7 +39,7 @@ div.rele1_desligado {
     width: 300px;
     height: 206px;
     border: none;
-	background-image: url("lampada_off.png") no-repeat left top;
+	background-image: url("https://cdn.jsdelivr.net/gh/guivillar/homeautomation@master/lampada_off.png") no-repeat left top;
 }
 
 div.rele2_ligado {
